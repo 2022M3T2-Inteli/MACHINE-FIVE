@@ -24,10 +24,10 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(2)_G(5)_V(1.0)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(2)_G(5)_V(1.0)_Predictive_Model_Document.docx<br>
+  &emsp;| T2_G5_V1.0_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G5_V1.0_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T(2)_G(5)_V(1.0)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T2_G5_V1.0_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
