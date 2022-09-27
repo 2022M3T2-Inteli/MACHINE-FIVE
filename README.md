@@ -18,7 +18,8 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+    Nosso projeto tem como objetivo estabelecer parâmetros de decisão e previsão da situação de cada colaborador da empresa, Everymind. O projeto é uma parceria, com foco em melhorar os índices de retenção a longo prazo da empresa. Dito isso, o projeto é focado no desenvolvimento de um modelo preditivo, descrito com a linguagem Python, tendo como uso das variáveis, dentro da base dos dados fornecidos pela empresa. O aprendizado do modelo será supervisionado e o método de seleção das variáveis será feito por classificação.
+	 Com isso dito, o modelo tem grande impacto na definição do objetivo geral do projeto proposto pela Everymind, com intenção de proporcionar a melhor utilização do modelo, para garantir a longanimidade e estabilidade de cada area da empresa.
 
 ## 📁 Estrutura de pastas
 
@@ -69,4 +70,20 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 Aqui estão as referências usadas no projeto:
 
-1. <https://creativecommons.org/share-your-work/>
+Everymind. Líder no ecossistema Salesforce para o Brasil pelo segundo ano consecutivo. (n.d.). Retirado Agosto 23, 2022, de: [https://mcjb15vjp4x3shyj9vwqlqvwnky1.pub.sfmc-content.com/vczccluo15c](https://mcjb15vjp4x3shyj9vwqlqvwnky1.pub.sfmc-content.com/vczccluo15c)
+
+HAMMES, Carla Cristina Ferreira, Antonio José dos SANTOS, e José Maria MELIM. "Os impactos do turnover para as organizações." Revista ESPACIOS| Vol. 37 (Nº 03) A2016 (2016).
+
+Hotz, B. N. (2022, Agosto 8). What is CRISP DM? Data Science Process Alliance. Retirado em Setembro 1, 2022, from [https://www.datascience-pm.com/crisp-dm-2/](https://www.datascience-pm.com/crisp-dm-2/)
+
+ Regressão Logística: O método estatístico mais utilizado para modelar variáveis categóricas.. [S. l.], 4 mar. 2017. Disponível em: [https://matheusfacure.github.io/2017/02/25/regr-log/](https://matheusfacure.github.io/2017/02/25/regr-log/). Acesso em: 9 set. 2022.
+
+MILANI, Alessandra M P.; SOARES, Juliane A.; ANDRADE, Gabriella L.; et al. Visualização de Dados. [Digite o Local da Editora]: Grupo A, 2020. E-book. ISBN 9786556900278. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9786556900278/]([https://integrada.minhabiblioteca.com.br/#/books/9786556900278/). Acesso em: 13 set. 2022.
+
+SALESFORCE. CRM: O que é? 2022. Disponível em: [https://www.salesforce.com/br/crm/#:](https://www.salesforce.com/br/crm/#:)
+~:text=Salesforce%20pode%20Ajudar%3F-,1.,todos%20os%20pontos%20de%20contato.
+Acesso em: 7/09/2022.
+
+A GENTLE Introduction to PyCaret for Machine Learning. [S. l.], 20 nov. 2020. Disponível em: [https://machinelearningmastery.com/pycaret-for-machine-learning/.] (https://machinelearningmastery.com/pycaret-for-machine-learning/) Acesso em: 22 set. 2022.
+
+INTRODUCTION to Principal Component Analysis(PCA). [S. l.], 2019. Disponível em: [https://aiaspirant.com/introduction-to-principal-component-analysispca/](https://aiaspirant.com/introduction-to-principal-component-analysispca/). Acesso em: 22 set. 2022. 
