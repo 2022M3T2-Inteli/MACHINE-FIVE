@@ -22,6 +22,9 @@
 
 Como objetivo geral temos a intenção de mudança da estrutura corporativa da empresa, com o aumento da taxa de retenção de colaboradores e de talento dentro da empresa. Consequentemente, a empresa tem como base, determinar, parâmetros decisivos para essa retenção, agregando à sua cultura, algumas ferramentas, e outros contratos sociais que mantenham os colaboradores engajados com o sistema e convivência dentro da empresa. A empresa embarca neste projeto junto à Inteli, para criação de um modelo que preveja esses parâmetros e fatores que determinam a saída de funcionários, para antecipação e melhor planejamento a longo prazo.
 
+Nosso projeto tem como objetivo estabelecer parâmetros de decisão e previsão da situação de cada colaborador da empresa, Everymind. O projeto é uma parceria, com foco em melhorar os índices de retenção a longo prazo da empresa. Dito isso, o projeto é focado no desenvolvimento de um modelo preditivo, descrito com a linguagem Python, tendo como uso das variáveis, dentro da base dos dados fornecidos pela empresa. O aprendizado do modelo será supervisionado e o método de seleção das variáveis será feito por classificação.
+Com isso dito, o modelo tem grande impacto na definição do objetivo geral do projeto proposto pela Everymind, com intenção de proporcionar a melhor utilização do modelo, para garantir a longanimidade e estabilidade de cada area da empresa.
+
 <br><br><br>
 
 ## 📁 Estrutura de pastas
