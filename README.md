@@ -9,12 +9,19 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/felipe-le%C3%A3o-9a8a601a6/">Felipe Leão</a> 
-- <a href="https://www.linkedin.com/in/igor-garcia-126a1823b/">Igor Garcia</a>
-- <a href="https://www.linkedin.com/in/marcelofeitoza7/">Marcelo Feitoza</a>
+- <a href="https://www.linkedin.com/in/felipe-le%C3%A3o-9a8a601a6/">Felipe Henrique Moreira Leão</a> 
+- <a href="https://www.linkedin.com/in/igor-garcia-126a1823b/">Igor Garcia Scarpin </a>
+- <a href="https://www.linkedin.com/in/marcelofeitoza7/">Marcelo Gomes Feitoza</a>
 - <a href="https://www.linkedin.com/in/michel-mansur-26006a219/">Michel Mansur</a> 
+<<<<<<< HEAD
 - <a href="https://www.linkedin.com/in/vinicius-oliveira-fernandes-627b68168/">Vinícius Fernandes</a>
 - <a href="https://www.linkedin.com/in/rodrigo-campos-8b70191ab/">Rodrigo Campos</a> 
+=======
+- <a href="https://www.linkedin.com/in/vinicius-oliveira-fernandes-627b68168/">Vinícius Oliveira Fernandes</a>
+- <a href="https://www.linkedin.com/in/rodrigo-campos-8b70191ab/">Rodrigo Campos Rodrigues</a>
+
+<br><br><br>
+>>>>>>> a3e4f43e1325855b1a3b89ee75b0d45defcc4b48
 
 ## 📝 Descrição
 
@@ -24,12 +31,13 @@
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T2_G5_V5.0_Predictive_Model_Document.pdf<br>
-  &emsp;| T2_G5_V5.0_Predictive_Model_Document.docx<br>
+  &emsp;|--> documentações antigas <br>
+  &emsp;| T2_G5_V5_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G5_V5_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T2_G5_V5.0_Predictive_Model_Development.ipynb<br>
-| readme.md<br>
+  &emsp;|--> notebooks antigos<br>
+  &emsp;| T2_G5_V5__Predictive_Model_Development.ipynb<br>
+| README.md<br>
 | license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -48,22 +56,22 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 1.0.0 - 06/10/2022
+Quinta entrega - Modelo Final
+* 0.7.5 - 24/09/2022
+Quarta entrega - Aprimoramento do modelo
+* 0.5.0 - 07/09/2022
+Terceira entrega - Treinamento do modelo
+* 0.2.5 - 27/08/2022
+Segunda entrega - Processamento de dados
+* 0.0.1 - 14/08/2022
+Primeira entrega - Análise dos dados
+
+<br><br><br>
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Felipe Leão, Igor Garcia, Marcelo Feitoza, Michel Mansur, Vinícius Fernandes, Rodrigo Campos</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de Funcionários </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Felipe Leão, Igor Garcia, Marcelo Feitoza, Michel Mansur, Vinícius Fernandes, Rodrigo Campos</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
