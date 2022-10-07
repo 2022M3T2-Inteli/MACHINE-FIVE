@@ -18,8 +18,7 @@
 
 ## 📝 Descrição
 
-    Nosso projeto tem como objetivo estabelecer parâmetros de decisão e previsão da situação de cada colaborador da empresa, Everymind. O projeto é uma parceria, com foco em melhorar os índices de retenção a longo prazo da empresa. Dito isso, o projeto é focado no desenvolvimento de um modelo preditivo, descrito com a linguagem Python, tendo como uso das variáveis, dentro da base dos dados fornecidos pela empresa. O aprendizado do modelo será supervisionado e o método de seleção das variáveis será feito por classificação.
-	 Com isso dito, o modelo tem grande impacto na definição do objetivo geral do projeto proposto pela Everymind, com intenção de proporcionar a melhor utilização do modelo, para garantir a longanimidade e estabilidade de cada area da empresa.
+Nosso projeto tem como objetivo estabelecer parâmetros de decisão e previsão da situação de cada colaborador da empresa, Everymind. O projeto é uma parceria, com foco em melhorar os índices de retenção a longo prazo da empresa. Dito isso, o projeto é focado no desenvolvimento de um modelo preditivo, descrito com a linguagem Python, tendo como uso das variáveis, dentro da base dos dados fornecidos pela empresa. O aprendizado do modelo será supervisionado e o método de seleção das variáveis será feito por classificação. Com isso dito, o modelo tem grande impacto na definição do objetivo geral do projeto proposto pela Everymind, com intenção de proporcionar a melhor utilização do modelo, para garantir a longanimidade e estabilidade de cada area da empresa.
 
 ## 📁 Estrutura de pastas
 
