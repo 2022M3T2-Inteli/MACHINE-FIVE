@@ -31,11 +31,13 @@ Com isso dito, o modelo tem grande impacto na definição do objetivo geral do p
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
-  &emsp;|--> outros <br>
+  &emsp;|--> documentações antiga <br>
   &emsp;| MACHINE5 - Documentação Projeto Módulo 3.pdf<br>
   &emsp;| MACHINE5 - Documentação Projeto Módulo 3.docx<br>
 |--> notebooks<br>
-  &emsp;|--> MachineFive.ipynb<br>
+  &emsp;|--> notebooks antigos<br>
+  &emsp;| Projeto5.ipynb<br>
+  &emsp;| Projeto5.py<br>
 | README.md<br>
 | license.txt
 
@@ -44,8 +46,10 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 - <b>documentos</b>: aqui estarão todos os documentos do projeto.
+- - <b>documentações antigos</b>: aqui estarão todos os documentos antigos do projeto.
 
 - <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+- - <b>notebooks antigos</b>: todos os Jupyter Notebooks antigos criados na plataforma Colab para desenvolvimento do projeto.
 
 <br><br><br>
 
@@ -59,8 +63,16 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 5/10/2022
-    * Finalização do projeto
+* 0.0.1 - 14/08/2022
+Primeira entrega - Análise dos dados
+* 0.2.5 - 27/08/2022
+Segunda entrega - Processamento de dados
+* 0.5.0 - 07/09/2022
+Terceira entrega - Treinamento do modelo
+* 0.7.5 - 24/09/2022
+Quarta entrega - Aprimoramento do modelo
+* 1.0.0 - 06/10/2022
+Quinta entrega - Modelo Final
 
 <br><br><br>
 
