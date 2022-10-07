@@ -36,8 +36,8 @@ Com isso dito, o modelo tem grande impacto na definição do objetivo geral do p
   &emsp;| T2_G5_V5_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
   &emsp;|--> notebooks antigos<br>
-  &emsp;| T2_G5_V8__Predictive_Model_Development.ipynb<br>
-  &emsp;| T2_G5_V8__Predictive_Model_Development.py<br>
+  &emsp;| T2_G5_V5__Predictive_Model_Development.ipynb<br>
+  &emsp;| T2_G5_V5__Predictive_Model_Development.py<br>
 | README.md<br>
 | license.txt
 
