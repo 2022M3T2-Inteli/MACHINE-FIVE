@@ -47,20 +47,21 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 ## 🗃 Histórico de lançamentos
 
-*0.2.1 - 06/10/2022
-Quinta entrega - Modelo Final
 
-*0.2.0 - 23/09/2022
-Quarta entrega - Avaliação e aprimoramento do modelo
+* 0.2.1 - 06/10/2022
+  * Quinta entrega - Modelo Final
 
-*0.1.1 - 08/09/2022
-Terceira entrega - Treinamento do modelo
+* 0.2.0 - 23/09/2022
+  * Quarta entrega - Avaliação e aprimoramento do modelo
 
-*0.1.0 - 26/08/2022
-Segunda entrega - Tratamento e processamento de dados
+* 0.1.1 - 08/09/2022
+  * Terceira entrega - Treinamento do modelo
 
-*0.0.1 - 12/08/2022
-Primeira entrega - Entendimento do negócio e dos dados
+* 0.1.0 - 26/08/2022
+   * Segunda entrega - Tratamento e processamento de dados
+
+* 0.0.1 - 12/08/2022
+  * Primeira entrega - Entendimento do negócio e dos dados
 
 ## 📋 Licença/License
 
